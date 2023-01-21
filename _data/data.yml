@@ -73,10 +73,11 @@ experiences:
     info:
       - role: Senior Application Engineer
         time: 2021 - Present
-        company: Oracle , Trivandrum
+        company: Oracle, Trivandrum
         details: |
           - DHSICO – Supplier platform
-              DHISCO has been providing innovative technology to enable hotel bookings around the globe. It
+              <b>Technologies:</b> Java, Reactive Programming, Spring boot, MySQL
+              <b>Description:</b> DHISCO has been providing innovative technology to enable hotel bookings around the globe. It
               delivers advanced connectivity and distribution solutions to over 100,000 hotels. Supplier Platform is a module
               inside the DHSICO which connects with various CRS around the globe.
               - Bullet point
