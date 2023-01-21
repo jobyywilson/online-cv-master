@@ -75,37 +75,56 @@ experiences:
         time: 2021 - Present
         company: Oracle, Trivandrum
         details: |
-          - DHSICO – Supplier platform<br>
+          - <b>DHSICO – Supplier platform</b><br>
               <b>Technologies:</b> Java, Reactive Programming, Spring boot, MySQL<br>
               <b>Description:</b> DHISCO has been providing innovative technology to enable hotel bookings around the globe. It
               delivers advanced connectivity and distribution solutions to over 100,000 hotels. Supplier Platform is a module
-              inside the DHSICO which connects with various CRS around the globe.
+              inside the DHSICO which connects with various CRS around the globe.<br>
               <b>Team size:</b> 5<br>
               <b>Responsibility:</b><br>
-              - Bullet point
-              - Bullet point
+              - Integrating web services
+              - Unit testing and integrated testing.
+              - Deployment
       - role: Senior Software Engineer
         time: 2020 - 2021
         company: Thinkpalm, Trivandrum
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - <b>DHSICO – Supplier platform</b><br>
+              <b>Technologies:</b> Java, Reactive Programming, Spring boot, MySQL<br>
+              <b>Description:</b> DHISCO has been providing innovative technology to enable hotel bookings around the globe. It
+              delivers advanced connectivity and distribution solutions to over 100,000 hotels. Supplier Platform is a module
+              inside the DHSICO which connects with various CRS around the globe.<br>
+              <b>Team size:</b> 5<br>
+              <b>Responsibility:</b><br>
+              - Integrating web services
+              - Unit testing and integrated testing.
+              - Deployment
       - role: Senior Software Engineer
         time: 2018 - 2020
         company: UST Global, Trivandrum
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - <b>Anthem Benefits Assistant</b><br>
+              <b>Technologies:</b> Python, Java 8, Fonduer, Spring Boot, Web services<br>
+              <b>Description:</b> Anthem Benefits Assistant is an intelligent application built using libraries of Stanford to extract
+              EOC documents.<br>
+              <b>Team size:</b> 4<br>
+              <b>Responsibility:</b><br>
+              - Responsible for doing/presenting POCs.
+              - Restful web service implementation.
+              - Built automation tool to reduce manual correction and testing.(About 70 % manual effort was reduce)
+              - Involved in Code Review, Unit Testing &amp; Deployment
+          - <b>CBS - Benefit Validation</b><br>
+              <b>Technologies:</b> Python, Flask, Angular, MongoDB<br>
+              <b>Description:</b> This tool is used to automate the current CBS team benefit validation testing area.<br>
+              <b>Team size:</b> 10<br>
+              <b>Responsibility:</b><br>
+              - Understanding the current business process.
+              - Designing the architecture diagram.
+              - UI designing
+              - Designing database.
+              - Responsible for doing/presenting POCs
+              - Restful API implementation.
+              - Involved in Code Review, Unit Testing &amp; Deployment.            
       - role: Software Engineer
         time: 2016 - 2018
         company: Allianz Technology, Trivandrum
